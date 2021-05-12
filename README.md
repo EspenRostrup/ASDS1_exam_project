@@ -1,4 +1,4 @@
-### content
+### Content
 "EXAM_ASDS1.pdf" contains our exam project. The project is divided into two parts. 
 The first part utilises a Regression Discontinuity Design (RDD) to explore causal impacts of an inventory status message on the elgiganten.dk webpage on customer consumer behaviour. 
 The second part is an investigation of the mobile phone network created in the [Copenhagen Networks Study](https://www.nature.com/articles/s41597-019-0325-x).
