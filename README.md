@@ -1,7 +1,7 @@
 # Exam project in [Advanced Social Data Science 1](https://kurser.ku.dk/course/asdk20004u/2020-2021)
 ### Content
 "EXAM_ASDS1.pdf" contains our exam project. The project is divided into two parts. 
-The first part utilises a Regression Discontinuity Design (RDD) to explore causal impacts of an inventory status message on the elgiganten.dk webpage on customer consumer behaviour. 
+The first part utilises a Regression Discontinuity Design (RDD) to explore causal impacts of an inventory status message from the elgiganten.dk webpage on customer consumer behaviour. 
 The second part is an investigation of the mobile phone network created in the [Copenhagen Networks Study](https://www.nature.com/articles/s41597-019-0325-x). 
 
 The project was made in a week from the 27/mar-2021 to 03/apr-2021.
